@@ -1,6 +1,6 @@
 # Predicting-Flower-Species-
 # Overview
-Welcome to my calculator project! This project is a simple yet functional calculator built using HTML, CSS, and JavaScript. It was completed as part of my internship at Coding Samurai.
+Welcome to my Predicting flower species ml model project! This project is a simple yet functional built using Python and different python libraries and machine learning models. It was completed as part of my internship at Coding Samurai.
 
 # Technologies Used
 - PYTHON: Used for Creating machine learning model.
